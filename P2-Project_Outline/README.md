@@ -25,14 +25,14 @@ Review Bills: Users will be able to review the all bills to have easy access to 
 previously added bills. 
 ### Technologies
 
-- Java
+- Python
 - MySQL
-- Hibernate
-- Spring Boot
-- Thymeleaf Templates
+- Django
+
 ### What I'll Have to Learn
-Considering that this is my first app I am sure there will be much to learn. The current technologies 
-I have listed are ones that I am familiar with. 
+I have little experience with Python but I am confident that I can learn it rather 
+quickly.  The Django framework is completely new for me so it will be completely foreign. Both 
+will be a learning experience.
 ### Project Tracker
 Bill Tracker
 https://trello.com/b/8H9B3rQ3/bill-tracker
