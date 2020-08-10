@@ -30,9 +30,9 @@ previously added bills.
 - Django
 
 ### What I'll Have to Learn
-I have little experience with Python but I am confident that I can learn it rather 
-quickly.  The Django framework is completely new for me so it will be completely foreign. Both 
-will be a learning experience.
-### Project Tracker
+Adding a page to my app that allows for comments or feedback
+improvements to the app.  We did not go over this particular attribute 
+during LC101.
+
 Bill Tracker
 https://trello.com/b/8H9B3rQ3/bill-tracker
